@@ -1,0 +1,167 @@
+html {
+  scroll-behavior: smooth;
+}
+
+/*End of Tablet View*/
+
+.navbar-details {
+	background: #988D8D;
+}
+
+.bg-landing {
+	background-image: url('C:/Users/Kenji/Documents/Zuitt Files/B303/individual/sessions/frontend/capstone1/images/landing-bg.png');
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.bg-landing-box{
+	height: 30rem;
+	background: #FAF4EC;
+	border-radius: 10px;
+	box-shadow: 1px 10px 8px 7px rgba(0,0,0,0.2);	
+}
+
+.landing-cat-img{
+  height: 20rem;
+  background-image:  url('C:/Users/Kenji/Documents/Zuitt Files/B303/individual/sessions/frontend/capstone1/images/landing-img.jpg');
+  border-radius: 10px 10px 10px 10px;
+  background-size: cover;
+  background-position: 50% 75%;
+  overflow: hidden;
+}
+
+.tools-div{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.1)), url('C:/Users/Kenji/Documents/Zuitt Files/B303/individual/sessions/frontend/capstone1/images/tools-bg.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 30%;	
+	background-attachment: fixed;
+
+}
+
+.bg-tools-box {
+	background: #FAF4EC;
+	border-radius: 10px;
+	box-shadow: 1px 10px 8px 7px rgba(0,0,0,0.2);	
+}
+
+#landing-img-gradient{
+	background: rgba(0, 0, 0, 1.0);
+    border-radius: 10px;
+    margin-left: 20px;
+    ba
+}
+
+/*Projects Section*/
+
+.project-div {
+	background-image: url('C:/Users/Kenji/Documents/Zuitt Files/B303/individual/sessions/frontend/capstone1/images/project-bg.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: scroll;
+}
+
+#project-h2-div{
+	background: #DFBB9D;
+}
+
+.card-div{
+	background: #FAF4EC;
+	box-shadow: 1px 10px 8px 7px rgba(0,0,0,0.2);	
+	border-radius: 10px;
+}
+
+.card-btn{
+	background: #DFBB9D; /*#FAF4EC*/
+	border-style: none;
+	border-radius: 5px;
+	padding: 6px 11px 6px 11px;
+}
+
+.card-btn:hover {
+	background-color:rgba(159, 134, 112, .65);
+	transition: 0.2s ease-in;
+}
+
+/* Contacts Section */
+
+.bg-contact{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.1)), url('C:/Users/Kenji/Documents/Zuitt Files/B303/individual/sessions/frontend/capstone1/images/contact-bg.png');
+	background-size: ;
+	background-repeat: no-repeat;
+	background-position: 50% 80%;
+	background-attachment: fixed;
+}
+
+.contact-form{
+	background: #FAF4EC;
+	box-shadow: 1px 7px 13px 4px rgba(0,0,0,0.2);	
+	border-radius: 10px;
+	font-family: Roboto;
+}
+
+
+.bg-footer  {
+	background: #988D8D;
+}
+
+/* Modals */
+
+.project-modal-header{
+	background: #988D8D;
+}
+
+.project-modal-header > h5{
+	color: white;
+}
+
+.project-modal-body{
+	background: #FAF4EC
+}
+
+/*Icons*/
+
+#icons-div{
+	position: absolute;
+	float: left;
+}
+
+#linkedin-icon{
+	width: 44px;
+	height: 44px;
+	cursor: pointer;
+	b
+}
+
+#instagram-icon{
+	width: 39px;
+	height: 39px;
+	cursor: pointer;
+}
+
+#skype-icon{
+	width: 41px;
+	height: 41px;
+	cursor: pointer;
+}
+
+#email-div{
+	margin-left: auto;
+	margin-right: 0;
+}
+
+#email-icon{
+	width: 50px;
+	height: 50px;
+}
+
+/* Extras */
+
+.title-clr {
+	color: #DFBB9D;
+}
+
+.title-clr-2 {
+	color: #FAF4EC;
+}
