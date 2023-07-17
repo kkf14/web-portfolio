@@ -9,7 +9,7 @@ html {
 }
 
 .bg-landing {
-	background-image: url('C:/Users/Kenji/Documents/Zuitt Files/B303/individual/sessions/frontend/capstone1/images/landing-bg.png');
+	background-image: url('./images/landing-bg.png');
 	background-repeat: no-repeat;
 	background-position: center;
 }
@@ -23,7 +23,7 @@ html {
 
 .landing-cat-img{
   height: 20rem;
-  background-image:  url('C:/Users/Kenji/Documents/Zuitt Files/B303/individual/sessions/frontend/capstone1/images/landing-img.jpg');
+  background-image:  url('./images/landing-img.jpg');
   border-radius: 10px 10px 10px 10px;
   background-size: cover;
   background-position: 50% 75%;
@@ -31,7 +31,7 @@ html {
 }
 
 .tools-div{
-	background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.1)), url('C:/Users/Kenji/Documents/Zuitt Files/B303/individual/sessions/frontend/capstone1/images/tools-bg.png');
+	background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.1)), url('./images/tools-bg.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 50% 30%;	
@@ -52,10 +52,10 @@ html {
     ba
 }
 
-/*Projects Section*/
+	/*Projects Section*/
 
 .project-div {
-	background-image: url('C:/Users/Kenji/Documents/Zuitt Files/B303/individual/sessions/frontend/capstone1/images/project-bg.png');
+	background-image: url('./images/project-bg.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -87,7 +87,7 @@ html {
 /* Contacts Section */
 
 .bg-contact{
-	background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.1)), url('C:/Users/Kenji/Documents/Zuitt Files/B303/individual/sessions/frontend/capstone1/images/contact-bg.png');
+	background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.1)), url('./images/contact-bg.png');
 	background-size: ;
 	background-repeat: no-repeat;
 	background-position: 50% 80%;
